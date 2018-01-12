@@ -1,0 +1,43 @@
+{
+  "success": "1",
+  "data": {
+    "banner": [
+      {
+        "id": "1",
+        "image": "assets/imgs/banner/1494423495_Staples-web.jpg"
+      },
+      {
+        "id": "2",
+        "image": "assets/imgs/banner/1514717343_1461-web.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "id": "1",
+        "name": "Fruits",
+        "image": "assets/imgs/category/icon_cat_9_v_3_500_1510556292.jpg",
+        "description": "Apple, Orange, Mangoes, Watermelon etc",
+        "color": ""
+      },
+      {
+        "id": "2",
+        "name": "Breakfast & Dairy",
+        "description": "Breakfast & Dairy Best Offers, Milk & Milk Products, Bread & Eggs, Paneer & Curd, Butter",
+        "image": "assets/imgs/category/icon_cat_14_v_3_500_1510556242.jpg",
+        "color": ""
+      }
+    ],
+    "questions": [
+      {
+        "id": "1",
+        "question": "Why Frocery?",
+        "answer": "bas aisahi"
+      },
+      {
+        "id": "2",
+        "question": "Why Rahul Sharma??",
+        "answer": "TP"
+      }
+    ]
+  }
+}
